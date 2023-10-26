@@ -1,0 +1,26 @@
+body{
+    font-family: Bahnschrift;
+    background-color: rgb(179,255,255);
+    text-align: center;
+}
+#main-header{
+    text-align:center;
+    background-color:#000080;
+    color: rgb(255,221,51);
+    padding: 20px;
+}
+#github_logo{
+    margin-right:10px;
+}
+ul
+{
+list-style-type: none;
+}
+h2{
+    background-color:#1a53ff;
+    padding: 10px 0 10px 0;
+    color:white;
+}
+#linkdin_logo{
+    margin-left:10px;
+}
